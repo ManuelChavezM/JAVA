@@ -1,2 +1,2 @@
 # JAVA
-Este repositorio contiene distintos PROYECTOS en lenguaje Java
+Este repositorio contiene todos mis PROYECTOS en lenguaje Java
