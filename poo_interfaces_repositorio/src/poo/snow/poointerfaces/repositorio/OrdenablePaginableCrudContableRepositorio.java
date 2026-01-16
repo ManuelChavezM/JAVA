@@ -1,0 +1,5 @@
+package poo.snow.poointerfaces.repositorio;
+
+public interface OrdenablePaginableCrudContableRepositorio extends CrudRepositorio,OrdenableRepositorio,PaginableRepositorio,ContableRepositorio{
+
+}
